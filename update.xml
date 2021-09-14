@@ -1,7 +1,7 @@
 <AppUpdater>
   <update>
-    <latestVersion>1.3</latestVersion>
-    <latestVersionCode>2</latestVersionCode>
+    <latestVersion>1.1</latestVersion>
+    <latestVersionCode>20</latestVersionCode>
     <url>https://github.com/foinix0/NetGrongApk/releases</url>
   </update>
 </AppUpdater>
