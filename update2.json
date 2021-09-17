@@ -1,10 +1,4 @@
 {
   "latestVersion": "1.4",
-  "latestVersionCode": 14,
-  "url": "https://github.com/foinix0/NetGrongApk/releases",
-  "releaseNotes": [
-    "- First evolution",
-    "- Second evolution",
-    "- Bug fixes"
-  ]
+  "latestVersionCode": 14
 }
